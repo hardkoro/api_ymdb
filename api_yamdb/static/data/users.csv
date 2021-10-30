@@ -1,0 +1,6 @@
+id,password,username,email,user_role,first_name,last_name,is_superuser,is_staff,is_active,date_joined,bio
+100,123,bingobongo,bingobongo@yamdb.fake,user,bingobongo,na,0,0,1,2021-07-08 21:03:00,n/a
+101,123,capt_obvious,capt_obvious@yamdb.fake,admin,capt_obvious,na,0,0,1,2021-06-07 21:03:00,n/a
+102,123,faust,faust@yamdb.fake,user,faust,none,0,0,1,2021-05-06 21:03:00,n/a
+103,123,reviewer,reviewer@yamdb.fake,user,reviewer,none,0,0,1,2021-04-06 21:03:00,n/a
+104,123,angry,angry@yamdb.fake,moderator,angry,none,0,1,1,2020-03-05 21:03:00,n/a
