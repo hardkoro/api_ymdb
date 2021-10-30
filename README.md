@@ -11,11 +11,11 @@ Documentation is available at: redoc/
 Clone the repo and change directory to the cloned repo:
 
 ```bash
-git clone https://github.com/hardkoro/api_yamdb.git
+git clone https://github.com/hardkoro/api_ymdb.git
 ```
 
 ```bash
-cd api_yamdb
+cd api_ymdb
 ```
 
 Create and activate virtual environment:
