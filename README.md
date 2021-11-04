@@ -2,9 +2,13 @@
 
 ## Description
 
-API allows to retrieve data from YaMDB.
+API allows to retrieve data from YaMDB — a service where people can share reviews of different works of art, such as movies, books etc. The service is implemented on Django Rest API.
 
-Documentation is available at: redoc/
+A JWT token is used for an authentication. It can be obtained after authorization via e-mail.
+
+Reviews can be written for each of the posts, and comments can be written for each review. You can leave a rating as for reviews, as for comments. Search and filtering are available.
+
+Endpoints are described in the docs: http://localhost/redoc/.
 
 ## Install
 
